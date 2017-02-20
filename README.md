@@ -11,10 +11,15 @@ Need to add:
 
 
 Basic Requirements for any project from idea to deployment:
+
 1. User Research - identify stakeholders and all users
+
 2. User stories (https://www.mountaingoatsoftware.com/agile/user-stories)
+
 3. Design and Hard Technical Requirements 
+
 4. Iterate through design → High-fidelity mockups [Coding starts]  
+
 5. Build first basic version of application (the heavy programming lifting)
   General design principles: https://12factor.net/
   Front-end - open source software
@@ -34,12 +39,16 @@ Basic Requirements for any project from idea to deployment:
   Heroku is more expensive, but simpler.
   Issue tracking software
   JIRA - $100/year
+  
 6. Continuously deploy until launch. 
   Harden infrastructure and deployment based on potential traffic 
   Plan ahead for traffic spikes
   https://en.wikipedia.org/wiki/Continuous_integration
+  
 7. Soft launch
+
 8. Fix bugs
+
 9. Hard launch
 
 # At this point, project is live and responsibilities shift somewhat:
