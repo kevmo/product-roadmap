@@ -1,20 +1,18 @@
 # product-roadmap
 Taking a software product from an idea to deployment.
 
-Product Roadmap for Upsolve
-
 Need to add: 
 - Time estimates
 - Better $ estimates
 - Marketing Strategy? Or is that covered?
 
-
-
 Basic Requirements for any project from idea to deployment:
 
 1. User Research - identify stakeholders and all users
 
-2. User stories (https://www.mountaingoatsoftware.com/agile/user-stories)
+#### 2. User stories (https://www.mountaingoatsoftware.com/agile/user-stories)
+
+These are short descriptions of a product's functionality in customer terms.  A useful structure is: "As a [type of user], [function to perform] so that [business value]".
 
 3. Design and Hard Technical Requirements 
 
@@ -68,19 +66,4 @@ Basic Requirements for any project from idea to deployment:
  3. A/B testing (Optimizely)
 
 
-Employee Costs - salaries.  Can divide 
-CTO - $120k budget.  May be able to get a do-gooder for less, but you’re playing with fire there.
-Developer - 120k budget. May be able to get a do-gooder for less, but you’re playing with fire there.
-UX/UI Designer  - design firm or freelancer for around $15-30k.  May play dev role and QA role.
-QA Engineer or specialist - $40K TO $80K.  Possible to forgo this if non-technical employees willing to be thorough and CTO trains and harders processes. [I can get by without if I do this - go to training for a day]
-
-A lot of bugs from one developer.  
-
 **Two developers, get design firm I work with hard for a couple of weeks to get high fidelity mockups.  Take a couple of weeks.** This is very important.   
-
-Have CTO/Developer, build 1 to 3 months.  Will cut a lot of corners.  
-
-A combination of CTO and dev for a couple months.  
-
-
-
